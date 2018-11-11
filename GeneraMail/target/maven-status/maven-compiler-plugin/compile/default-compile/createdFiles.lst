@@ -1,0 +1,7 @@
+com\misofertas\data\connect\Conexion.class
+com\misofertas\data\model\EnvioMail.class
+com\misofertas\data\model\Usuario.class
+com\misofertas\rest\jersey\client\RestClient.class
+com\misofertas\data\connect\Test.class
+com\misofertas\data\model\EnvioMail$1.class
+com\misofertas\rest\jersey\server\RestServer.class
